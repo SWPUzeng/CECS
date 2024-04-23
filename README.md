@@ -18,13 +18,8 @@ Experiments are conducted on fifteen public datasets from UCI and KEEL in compar
 Results validate the time complexity analysis, and show competitive classification performance of our algorithm.
 
 Keywords:
-	Classification 
- 
-	Formal concept analysis 
- 
-	Label concept 
- 
-	Label confidence
+
+Classification, Formal concept analysis, Label concept, Label confidence.
  
  ------------------------------------------------------------------------------------
 This project demonstrates the use of formal concept analysis to achieve classification tasks.

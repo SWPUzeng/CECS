@@ -1,7 +1,9 @@
 #CECS
+
 CECS(Individual entity induced label concept set for classification: An information fusion viewpoint)
 
 Abstract:
+
 Formal concept analysis has seldom been employed for classification.
 This is mainly due to 1) the high time and space complexity of concept lattice construction, and
 2) the difficulty of concept lattice based prediction.
@@ -16,18 +18,25 @@ Experiments are conducted on fifteen public datasets from UCI and KEEL in compar
 Results validate the time complexity analysis, and show competitive classification performance of our algorithm.
 
 Keywords:
-	Classification \sep
-	Formal concept analysis \sep
-	Label concept \sep
+	Classification 
+ 
+	Formal concept analysis 
+ 
+	Label concept 
+ 
 	Label confidence
  
  ------------------------------------------------------------------------------------
 This project demonstrates the use of formal concept analysis to achieve classification tasks.
 
-The main process is divided into the following parts:\\
+The main process is divided into the following parts:
+
 (1) original datasets are discretized into binary datasets.
+
 (2) Obtaining concept sets from binary datasets.
+
 (3) Calculating confidence.
+
 (4) Classification and prediction.
 
 Please feel free to contact me (xiaozeng658@gmail.com), if you have any problem about this programme.
